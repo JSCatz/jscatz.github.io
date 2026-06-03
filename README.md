@@ -22,7 +22,6 @@ https://sites.google.com/dnsc.edu.ph/jscatz/home
 - XAMPP Database
 - Research & Planning
 - Video Editing
-- Film Direction
 
 ## Creative Works & Achievements
 
